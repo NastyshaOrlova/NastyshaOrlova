@@ -1,16 +1,16 @@
-## Hi there 👋
+## Привет всем, я Настя!🎀👋
 
-<!--
-**NastyshaOrlova/NastyshaOrlova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔩 Я инженер по жизни. Задача в коде или задача внутри себя — подход один: 
+   структура, причины, решение.
 
-Here are some ideas to get you started:
+🌱 Backend developer.
+   Каждый шаг в сторону большей сложности и глубины.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Сейчас работаю над backend проектами на NestJS + PostgreSQL
+
+💬 Node.js · NestJS · Express · PostgreSQL · MongoDB ·
+   TypeScript · REST API · Jest · Docker · React · Redux
+
+📫 Как связаться: [Telegram](https://t.me/shon_qwe)
+
+🚀 Открыта к предложениям
