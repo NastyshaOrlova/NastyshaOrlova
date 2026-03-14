@@ -1,13 +1,15 @@
 ## Доброго времени суток, я Настя!🎀
 
-🔩 **Я инженер по жизни.** Задача в коде или задача внутри себя — подход один: 
-   структура, причины, решение.
+🔩 **Я инженер по жизни.** Задача в коде или задача внутри себя — подход один: структура, причины, решение.
 
-🌱 **Backend developer.** Сейчас работаю над backend проектами на `NestJS` + `PostgreSQL`
+🌱 **Fullstack / Backend developer.** Сервер, база данных, API, интерфейс
 
-💬 `Node.js` · `NestJS` · `Express` · `PostgreSQL` · `MongoDB` · `TypeScript` · `REST API` · `Jest` · `Docker` · `React` · `Redux`
-   
+💬 `Node.js` · `NestJS` · `Express` · `TypeScript` · `PostgreSQL` · `MongoDB` · `TypeORM` · `REST API` · `JWT` · `WebSocket` · `Jest` · `Docker` · `React` · `Redux` · `HTML/CSS`
+
 ---
+
 🚀 Открыта к предложениям
 
 📫 Как связаться: [Telegram](https://t.me/shon_qwe)
+
+
